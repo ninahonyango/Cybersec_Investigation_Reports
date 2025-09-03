@@ -50,12 +50,12 @@ Each report follows a consistent structure for clarity and reproducibility:
 - Open the report PDF/Markdown to follow the investigation step-by-step.  
 - Reproduce findings using the provided artifacts in a controlled lab setup.  
 
-#### Brute Force Attack Category
+#### *Brute Force Attack Category*
 
 > Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports/blob/main/FTPBrute-forceCybersecurityInvestigationReport.pdf) to view an investigation report on Metasploitable's FTP brute-force attack.
 
 
-### Exploitation Category
+#### *Exploitation Category*
 
 ---
 
