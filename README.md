@@ -4,6 +4,8 @@
 
 This repository contains detailed cybersecurity investigation reports documenting traffic analysis, incident simulations, and detection exercises performed using tools such as **Wireshark, Snort, Splunk, and pfSense**. Each report captures key findings, timestamps, and evidence of malicious or suspicious activities, with the goal of improving detection and response strategies.
 
+In addition, for each investigation I have created **Runbooks** (step-by-step procedures for incident response) and **Playbooks** (automated or semi-automated workflows for handling threats) to ensure repeatability and operational readiness in a SOC environment.
+
 ---
 
 ## Structure
@@ -33,13 +35,17 @@ Each report follows a consistent structure for clarity and reproducibility:
    - Detailed explanation of what was discovered.  
    - Tactics/techniques mapped to frameworks (e.g., MITRE ATT&CK).
 
-7. **Recommendations**  
+7. **Response Documentation**  
+   - **Runbooks:** Step-by-step response guides tailored to each scenario.  
+   - **Playbooks:** Automated or semi-automated workflows for repeatable incident handling.  
+
+8. **Recommendations**  
    - Security controls, policies, or configurations to prevent recurrence.
 
-8. **Conclusion**  
+9. **Conclusion**  
    - Wrap-up of the investigation, lessons learned, and implications.
 
-9. **Appendix**  
+10. **Appendix**  
    - Full packet captures (PCAP), Snort rules, Splunk queries, or scripts used.
 
 ---
@@ -48,6 +54,7 @@ Each report follows a consistent structure for clarity and reproducibility:
 
 - Browse reports by attack category (e.g., **Reconnaissance, Brute Force, Exploitation**).  
 - Open the report PDF/Markdown to follow the investigation step-by-step.  
+- Review included Runbooks and Playbooks to see how incidents can be operationalized in a SOC workflow.
 - Reproduce findings using the provided artifacts in a controlled lab setup.  
 
 #### *Brute Force Attack Category*
