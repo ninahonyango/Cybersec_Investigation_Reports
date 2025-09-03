@@ -59,8 +59,8 @@ Each report follows a consistent structure for clarity and reproducibility:
 
 #### *Brute Force Attack Category*
 
-> Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports/blob/main/FTPBrute-forceCybersecurityInvestigationReport.pdf) to view an investigation report on Metasploitable's FTP brute-force attack.
-
+> Click [here](https://github.com/ninahonyango/soc_playbooks_and_reports/blob/main/FTPBrute-forceCybersecurityInvestigationReport.pdf) to view an investigation report on Metasploitable's successful FTP brute-force attack.
+> Click [here](https://github.com/ninahonyango/soc_playbooks_and_reports/blob/main/PlaybookBruteforce.pdf) to view the playbook and runbook for brute-force attacks.
 
 #### *Exploitation Category*
 
