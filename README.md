@@ -17,7 +17,7 @@ Each report follows a consistent structure for clarity and reproducibility:
    - Description of the traffic, attack type, or suspicious activity under investigation.
 
 3. **Environment Setup**  
-   - Tools, systems, and configurations used.
+   - Tools, systems, network topology, and configurations used.
 
 4. **Evidence Collected**  
    - Relevant Wireshark or IDS/IPS packet captures with timestamp explanations.  
@@ -63,3 +63,5 @@ All investigations are performed in **controlled lab environments** for educatio
 > *Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports/blob/main/FTPBrute-forceCybersecurityInvestigationReport.pdf) to view an investigation report on Metasploitable's FTP brute-force attack.
 
 ---
+
+### Exploitation
