@@ -1,10 +1,10 @@
-# Cybersecurity Investigation Reports
+# Cybersecurity Playbooks, Runbooks & Investigation Reports 
 
 ## Overview
 
-This repository contains detailed cybersecurity investigation reports documenting traffic analysis, incident simulations, and detection exercises performed using tools such as **Wireshark, Snort, Splunk, and pfSense**. Each report captures key findings, timestamps, and evidence of malicious or suspicious activities, with the goal of improving detection and response strategies.
+This repository contains detailed cybersecurity investigation reports documenting traffic analysis, incident simulations, and detection exercises performed using security tools. Each report captures key findings, timestamps, and evidence of malicious or suspicious activities, with the goal of improving detection and response strategies.
 
-In addition, for each investigation I have created **Runbooks** (step-by-step procedures for incident response) and **Playbooks** (automated or semi-automated workflows for handling threats) to ensure repeatability and operational readiness in a SOC environment.
+In addition, for each investigation I have created runbooks (step-by-step procedures for incident response) and Playbooks to ensure repeatability and operational readiness in the SOC environment.
 
 ---
 
