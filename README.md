@@ -54,7 +54,7 @@ Each report follows a consistent structure for clarity and reproducibility:
 
 ### Brute Force Attack Category
 
-> *Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports/blob/main/FTPBrute-forceCybersecurityInvestigationReport.pdf) to view an investigation report on Metasploitable's FTP brute-force attack.
+> Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports/blob/main/FTPBrute-forceCybersecurityInvestigationReport.pdf) to view an investigation report on Metasploitable's FTP brute-force attack.
 
 
 ### Exploitation Category
@@ -66,5 +66,5 @@ Each report follows a consistent structure for clarity and reproducibility:
 
 All investigations are performed in **controlled lab environments** for educational and research purposes. Do not attempt these techniques on unauthorized systems.
 
----
+
 ---
